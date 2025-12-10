@@ -10,7 +10,7 @@ O modo combate funciona assim: o usuário terá 4 opções de guerreiros para es
 https://youtu.be/nzztz6xzDsY?si=XNZwioyE7o-K_TC7
 
 ## Link do github
-
+https://github.com/habner11dves/tca
 
 # Integrantes
 Leandro Daniel Prado Silvestre
